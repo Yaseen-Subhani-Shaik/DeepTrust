@@ -1,1 +1,1 @@
-# DeepTrust
+# DeepTrust a Deepfake Detection
